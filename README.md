@@ -1,1 +1,1 @@
-# gophercon-demo
+# gophercon-cms
